@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:\C:\Users\PC DPC ELITE\OneDrive\Documentos\servicios web\practica5\ejemplo1.xsl"?>
+ <autos>
+<marca>
+<nombre>Porche</nombre>
+<modelo>911</modelo>
+</marca>
+<marca>
+<nombre>BMW</nombre>
+<modelo>M5</modelo>
+</marca>
+<marca>
+<nombre>Toyota</nombre>
+<modelo>supra</modelo>
+</marca>
+</autos>
